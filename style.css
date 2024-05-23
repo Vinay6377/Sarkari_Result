@@ -1,0 +1,425 @@
+*{ 
+    font-family:arial;}
+ body{
+       padding-left:100px;
+       padding-right:100px;
+       }
+  
+  #main{
+      background-color:brown;
+      text-align:center;
+      height:190px;
+      }
+  
+  #logo{
+      float:left;
+      padding-left:20px;
+      padding-top:20px;
+      }
+  #text{
+        text-align:center;
+        color:white;
+        font-size:60px;
+        font-family:Calisto MT;
+        padding-top:40px;
+        }
+  #div{
+      font-size:20px;
+      text-align:center;
+      color:white; 
+      font-family:Calisto MT;
+       }
+
+      .nav{
+      
+        display:flex;
+        text-align:center;
+        justify-content:center;
+        background-color:black;
+        }
+        .nav div{
+         
+            border-left: 2px solid gray;
+            font-size: 20px;
+            padding-left: 17px;
+            padding-right: 8px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        .nav div a{
+        text-decoration:none;
+        color:white;
+        font-weight:bold;
+        font-size:15px;
+        }
+  #a{
+     color:white;
+     text-decoration:none;
+     }
+   #Sarkari{
+    font-size:22px;
+    font-weight:bold;
+    text-align:center;
+    }
+  #p{
+      text-align:center;
+      font-size:15px;
+      color:red;
+      }
+  #line{
+      font-size:20px;
+      text-align:center;
+      }
+  #twitter{
+          text-align:center;
+          font-weight:bold;
+             margin-left: 3px;
+          white-space: nowrap;
+
+          }
+     #twit{
+          position: relative;
+          height: 20px;
+          box-sizing: border-box;
+          padding: 1px 12px 1px 12px;
+          background-color: #000;
+          color: #fff;
+          border-radius: 9999px;
+          font-weight: 500;
+          cursor: pointer;
+          }
+  #tool{
+      text-align:center;
+      background-color:#008;
+      margin-left:400px;
+      margin-right:400px;
+      font-weight:bold;
+      text-decoration:underline;
+      text-decoration-color:#66f;
+      font-size:20px;
+      color:white;
+       }		
+  #td1{
+     font-size:20px;
+     color:white;
+     font-weight:bold;
+     border:2px solid white;
+     width:300px;
+     height:70px;
+     text-align:center;
+  }
+  #boxmodel{
+       background-color:brown;
+       color:white;
+       font-size:30px;
+       font-weight:bold;
+      
+       width:330px;
+       }
+  .box{
+       display:flex;
+       text-align:center;
+      }
+ .box1{
+       outline:2px solid orange;
+       margin-right:30px;
+      
+       }
+  .box2{
+        margin-right:30px;
+        outline:2px solid orange;
+       }
+  .box3{
+        outline:2px solid orange;
+       }
+  li{
+     padding:7px;
+    }
+  .button{
+         font-weight:bold;
+         font-size:20px;
+         color:#008;
+         padding-top:4px;
+         margin-left:200px;
+         }
+  #big-box{
+         border:2px solid orange;
+         margin-top:20px;
+         }
+  h2{
+      color:white;
+      background-color:brown;
+      padding:10px;
+      text-align:center;
+      }
+  p{
+     text-align:center;
+     padding:10px;
+     }
+
+        .head{
+              background-color:brown;
+              text-align:center;
+              text-transform:uppercase;
+              height:180px;
+              font-weight:bold;
+              color:white;
+              font-size:20px;
+              margin:0px 120px;
+              }
+              .head img{
+                width:150px;
+                height:150px;
+                float:left;
+                padding:15px 10px;
+              }
+              .head  .title{
+                    padding-top:40px;
+                    font-size:60px;
+              }
+            
+              .home-link{
+              margin:10px 120px;
+              font-weight:bold;
+              }
+              .home_page_link{
+              font-weight:bold;
+              text-align:center;
+              font-size:30px;
+              }
+              .table{
+              margin:40px 120px;
+              outline:2px solid black;
+              width:700;
+              }
+              .Admit_Card{
+              text-align:center;
+              font-size:30px;
+              background-color:brown;
+              color:white;
+              }
+              .table ul li {
+              text-align:center;
+              padding:5px;
+              }
+
+              .head{
+                background-color:brown;
+                text-align:center;
+                text-transform:uppercase;
+                height:180px;
+                font-weight:bold;
+                color:white;
+                font-size:20px;
+                margin:0px 120px;
+                }
+                .head img{
+                  width:150px;
+                  height:150px;
+                  float:left;
+                  padding:15px 10px;
+                }
+                .head  .title{
+                      padding-top:40px;
+                      font-size:60px;
+                }
+
+                .home-link{
+                margin:10px 120px;
+                font-weight:bold;
+                }
+                .home_page_link{
+                font-weight:bold;
+                text-align:center;
+                font-size:30px;
+                }
+                .table{
+                margin:40px 120px;
+                outline:2px solid black;
+                width:700;
+                }
+                h2{
+                margin:5px 0px;
+                }
+                p{
+                font-weight:bold;
+                }
+                .Answer-key{
+                text-align:center;
+                font-size:30px;
+                background-color:brown;
+                color:white;
+                }
+                .table ul li {
+                text-align:center;
+                padding:5px;
+                list-style-type:none;
+                }
+
+                .head{
+					background-color:brown;
+					text-align:center;
+					text-transform:uppercase;
+					height:180px;
+					font-weight:bold;
+					color:white;
+					font-size:20px;
+					margin:0px 120px;
+					}
+					.head img{
+					  width:150px;
+					  height:150px;
+					  float:left;
+					  padding:15px 10px;
+					}
+					.head  .title{
+					      padding-top:40px;
+						  font-size:60px;
+					}
+				
+					.home-link{
+					margin:10px 120px;
+					font-weight:bold;
+					}
+					.home_page_link{
+					font-weight:bold;
+					text-align:center;
+					font-size:30px;
+					}
+					.table{
+					margin:40px 120px;
+					outline:2px solid black;
+					width:700;
+					}
+					.Latest_Jobs{
+					text-align:center;
+					font-size:30px;
+					background-color:brown;
+					color:white;
+					}
+					.table ul li {
+					text-align:center;
+					padding:5px;
+					}
+                    .head{
+                        background-color:brown;
+                        text-align:center;
+                        text-transform:uppercase;
+                        height:180px;
+                        font-weight:bold;
+                        color:white;
+                        font-size:20px;
+                        margin:0px 120px;
+                        }
+                        .head img{
+                          width:150px;
+                          height:150px;
+                          float:left;
+                          padding:15px 10px;
+                        }
+                        .head  .title{
+                              padding-top:40px;
+                              font-size:60px;
+                        }
+                      
+                        .home-link{
+                        margin:10px 120px;
+                        font-weight:bold;
+                        }
+                        .home_page_link{
+                        font-weight:bold;
+                        text-align:center;
+                        font-size:30px;
+                        }
+                        .table{
+                        margin:40px 120px;
+                        outline:2px solid black;
+                        width:600;
+                        }
+                        .results{
+                        text-align:center;
+                        font-size:30px;
+                        background-color:brown;
+                        color:white;
+                        }
+                        .table ul li {
+                        text-align:center;
+                        padding:5px;
+                        }
+                        .head{
+                            background-color:brown;
+                            text-align:center;
+                            text-transform:uppercase;
+                            height:180px;
+                            font-weight:bold;
+                            color:white;
+                            font-size:20px;
+                            margin:0px 120px;
+                            }
+                            .head img{
+                              width:150px;
+                              height:150px;
+                              float:left;
+                              padding:15px 10px;
+                            }
+                            .head  .title{
+                                  padding-top:40px;
+                                  font-size:60px;
+                            }
+                     
+                            .home-link{
+                            margin:10px 120px;
+                            font-weight:bold;
+                            }
+                            .home_page_link{
+                            font-weight:bold;
+                            text-align:center;
+                            font-size:30px;
+                            }
+                            .head{
+                                background-color:brown;
+                                text-align:center;
+                                text-transform:uppercase;
+                                height:180px;
+                                font-weight:bold;
+                                color:white;
+                                font-size:20px;
+                                margin:0px 120px;
+                                }
+                                .head img{
+                                  width:150px;
+                                  height:150px;
+                                  float:left;
+                                  padding:15px 10px;
+                                }
+                                .head  .title{
+                                      padding-top:40px;
+                                      font-size:60px;
+                                }
+                      
+                                .home-link{
+                                margin:10px 120px;
+                                font-weight:bold;
+                                }
+                                .home_page_link{
+                                font-weight:bold;
+                                text-align:center;
+                                font-size:30px;
+                                }
+                                .table{
+                                margin:40px 120px;
+                                outline:2px solid black;
+                                width:700;
+                                }
+                                
+                                .Syllabus{
+                                text-align:center;
+                                font-size:30px;
+                                background-color:brown;
+                                color:white;
+                                }
+                                .table ul li {
+                                text-align:center;
+                                padding:5px;
+                                }  
+                                
